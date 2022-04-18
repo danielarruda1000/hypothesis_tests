@@ -1,7 +1,7 @@
 # hypothesis_tests
 Most useful hypothesis tests for data scientist with python exemples
 
-##Content:
+## Content:
 * Normality Tests
 * Correlation Tests
 * Stationary Tests
